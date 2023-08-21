@@ -8,6 +8,6 @@ Analog Clock is a simple web application that displays the current time on an an
 
 
 
-You can see the live demo of the Analog Clock [here]([https://your-demo-link.com](https://beexoul.github.io/Analog_Clock/)https://beexoul.github.io/Analog_Clock/).
+You can see the live demo of the Analog Clock [here](https://beexoul.github.io/Analog_Clock/).
 
 
